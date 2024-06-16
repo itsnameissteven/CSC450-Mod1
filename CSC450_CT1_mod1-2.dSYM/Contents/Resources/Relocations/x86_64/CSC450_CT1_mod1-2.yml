@@ -1,6 +1,6 @@
 ---
 triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/P3053916/school/CSC450/mod1/critical_thinking/CSC450_CT1_mod1-2'
+binary-path:     '/Users/P3053916/school/CSC450/mod1/critical_thinking/terminal_program/CSC450_CT1_mod1-2'
 relocations:
   - { offsetInCU: 0x2DB7, offset: 0x2DB7, size: 0x8, addend: 0x0, symName: __ZNSt3__124__put_character_sequenceB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m, symObjAddr: 0x150, symBinAddr: 0x1000012A0, symSize: 0x1F0 }
   - { offsetInCU: 0x4704, offset: 0x4704, size: 0x8, addend: 0x0, symName: __ZNSt3__1lsB8ue170006INS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_PKc, symObjAddr: 0xA0, symBinAddr: 0x1000011F0, symSize: 0x40 }

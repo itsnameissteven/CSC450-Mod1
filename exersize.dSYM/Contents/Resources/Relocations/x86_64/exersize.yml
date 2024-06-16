@@ -1,6 +1,6 @@
 ---
 triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/P3053916/school/CSC450/mod1/critical_thinking/exersize'
+binary-path:     '/Users/P3053916/school/CSC450/mod1/critical_thinking/terminal_program/exersize'
 relocations:
   - { offsetInCU: 0x2F7E, offset: 0x2F7E, size: 0x8, addend: 0x0, symName: __ZNSt3__16copy_nB8ue170006IPKcmPcEENS_9enable_ifIXsr37__has_random_access_iterator_categoryIT_EE5valueET1_E4typeES5_T0_S6_, symObjAddr: 0x13F0, symBinAddr: 0x100001C40, symSize: 0x40 }
   - { offsetInCU: 0x3025, offset: 0x3025, size: 0x8, addend: 0x0, symName: __ZNSt3__124__put_character_sequenceB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m, symObjAddr: 0x1BB0, symBinAddr: 0x100002400, symSize: 0x1F0 }
