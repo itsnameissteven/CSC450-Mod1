@@ -1,1 +1,1 @@
-# CSC450-Mod1
+# CSC450-Mod1 - Terminal program
